@@ -1,0 +1,15 @@
+id = "kubesong-theme"
+name = "Kubesong"
+version = "1.0.0"
+schema_version = 0
+description = "kubesong"
+repository = "https://github.com/helgelol/kubesong-zed-theme"
+authors = ["Helge F <helge@kubes.no>"]
+themes = ["themes/kubesong.json"]
+languages = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
